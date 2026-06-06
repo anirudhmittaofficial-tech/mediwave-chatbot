@@ -264,4 +264,4 @@ This project was built as part of the **4-Week Internship Program** at Mediwave 
 
 ---
 
-*Built with ❤️ by [Your Name] | Aurora Deemed to be University | June 2026*
+*Built with ❤️ by Mitta Anirudh Sai Eswar. | Aurora Deemed to be University | June 2026*
